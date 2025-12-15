@@ -1,3 +1,3 @@
-# Albanian Version 0.0.1
-Pershendetje, une jam **flokshi**, miresevini ne repositorin tim ne github.
+# Hello, I am Flokshi :)
+Computer and language enthusiast 
 
