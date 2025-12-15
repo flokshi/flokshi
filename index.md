@@ -3,4 +3,6 @@ Here I would share many interesting things about the computer, also different th
 
 ## My Work 
 
-[guide_to_making_your_own_computer](guide_to_making_your_own_computer)
+- [guide_to_making_your_own_computer](guide_to_making_your_own_computer)
+- [writing_your_own_shell](writing_your_own_shell)
+
