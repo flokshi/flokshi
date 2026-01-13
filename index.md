@@ -5,4 +5,4 @@ Here I would share many interesting things about the computer, also different th
 
 - [guide_to_making_your_own_computer](guide_to_making_your_own_computer)
 - [writing_your_own_shell](writing_your_own_shell)
-
+- [client_sever_architecture](client_sever_architecture)
